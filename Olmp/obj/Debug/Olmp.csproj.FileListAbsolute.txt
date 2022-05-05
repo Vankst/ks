@@ -1,0 +1,241 @@
+D:\Olmp\Olmp\obj\Debug\Olmp.csproj.AssemblyReference.cache
+D:\Olmp\Olmp\obj\Debug\Olmp.csproj.SuggestedBindingRedirects.cache
+D:\Olmp\Olmp\obj\Debug\Olmp.csproj.GenerateResource.cache
+D:\Olmp\Olmp\bin\Debug\Olmp.exe.config
+D:\Olmp\Olmp\bin\Debug\Olmp.exe
+D:\Olmp\Olmp\bin\Debug\Olmp.pdb
+D:\Olmp\Olmp\obj\Debug\Olmp.Properties.Resources.resources
+D:\Olmp\Olmp\obj\Debug\Olmp.csproj.CoreCompileInputs.cache
+D:\Olmp\Olmp\obj\Debug\Olmp.exe
+D:\Olmp\Olmp\obj\Debug\Olmp.pdb
+D:\Olmp\Olmp\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Olmp\Olmp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Olmp\Olmp\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Olmp\Olmp\bin\Debug\Npgsql.dll
+D:\Olmp\Olmp\bin\Debug\OpenXmlPowerTools.dll
+D:\Olmp\Olmp\bin\Debug\System.Buffers.dll
+D:\Olmp\Olmp\bin\Debug\System.Collections.Immutable.dll
+D:\Olmp\Olmp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Olmp\Olmp\bin\Debug\System.IO.Packaging.dll
+D:\Olmp\Olmp\bin\Debug\System.Management.Automation.dll
+D:\Olmp\Olmp\bin\Debug\System.Memory.dll
+D:\Olmp\Olmp\bin\Debug\System.Numerics.Vectors.dll
+D:\Olmp\Olmp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Olmp\Olmp\bin\Debug\System.Text.Encodings.Web.dll
+D:\Olmp\Olmp\bin\Debug\System.Text.Json.dll
+D:\Olmp\Olmp\bin\Debug\System.Threading.Channels.dll
+D:\Olmp\Olmp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Olmp\Olmp\bin\Debug\System.ValueTuple.dll
+D:\Olmp\Olmp\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Olmp\Olmp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Olmp\Olmp\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Olmp\Olmp\bin\Debug\Npgsql.xml
+D:\Olmp\Olmp\bin\Debug\System.Buffers.xml
+D:\Olmp\Olmp\bin\Debug\System.Collections.Immutable.xml
+D:\Olmp\Olmp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Olmp\Olmp\bin\Debug\System.Memory.xml
+D:\Olmp\Olmp\bin\Debug\System.Numerics.Vectors.xml
+D:\Olmp\Olmp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Olmp\Olmp\bin\Debug\System.Text.Encodings.Web.xml
+D:\Olmp\Olmp\bin\Debug\System.Text.Json.xml
+D:\Olmp\Olmp\bin\Debug\System.Threading.Channels.xml
+D:\Olmp\Olmp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Olmp\Olmp\bin\Debug\System.ValueTuple.xml
+D:\Olmp\Olmp\obj\Debug\Olmp.Main.resources
+D:\Olmp\Olmp\obj\Debug\Olmp.SignUp.resources
+D:\Olmp\Olmp\obj\Debug\Olmp.csproj.CopyComplete
+D:\Olmp\Olmp\obj\Debug\Olmp.Forms.SignIn.resources
+D:\Olmp\Olmp\obj\Debug\Olmp.Account.resources
+G:\ОАП\olpm\Olmp\bin\Debug\Olmp.exe.config
+G:\ОАП\olpm\Olmp\bin\Debug\Olmp.exe
+G:\ОАП\olpm\Olmp\bin\Debug\Olmp.pdb
+G:\ОАП\olpm\Olmp\bin\Debug\DocumentFormat.OpenXml.dll
+G:\ОАП\olpm\Olmp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ОАП\olpm\Olmp\bin\Debug\Microsoft.Bcl.HashCode.dll
+G:\ОАП\olpm\Olmp\bin\Debug\Npgsql.dll
+G:\ОАП\olpm\Olmp\bin\Debug\OpenXmlPowerTools.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Buffers.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Collections.Immutable.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.IO.Packaging.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Management.Automation.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Memory.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Numerics.Vectors.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Text.Encodings.Web.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Text.Json.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Threading.Channels.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\ОАП\olpm\Olmp\bin\Debug\System.ValueTuple.dll
+G:\ОАП\olpm\Olmp\bin\Debug\DocumentFormat.OpenXml.xml
+G:\ОАП\olpm\Olmp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\ОАП\olpm\Olmp\bin\Debug\Microsoft.Bcl.HashCode.xml
+G:\ОАП\olpm\Olmp\bin\Debug\Npgsql.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.Buffers.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.Collections.Immutable.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.Memory.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.Numerics.Vectors.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.Text.Encodings.Web.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.Text.Json.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.Threading.Channels.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\ОАП\olpm\Olmp\bin\Debug\System.ValueTuple.xml
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.csproj.AssemblyReference.cache
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.Account.resources
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.Main.resources
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.Forms.SignIn.resources
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.SignUp.resources
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.Properties.Resources.resources
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.csproj.GenerateResource.cache
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.csproj.CoreCompileInputs.cache
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.csproj.CopyComplete
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.exe
+G:\ОАП\olpm\Olmp\obj\Debug\Olmp.pdb
+D:\olpm\Olmp\bin\Debug\Olmp.exe.config
+D:\olpm\Olmp\bin\Debug\Olmp.exe
+D:\olpm\Olmp\bin\Debug\Olmp.pdb
+D:\olpm\Olmp\bin\Debug\DocumentFormat.OpenXml.dll
+D:\olpm\Olmp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\olpm\Olmp\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\olpm\Olmp\bin\Debug\Npgsql.dll
+D:\olpm\Olmp\bin\Debug\OpenXmlPowerTools.dll
+D:\olpm\Olmp\bin\Debug\System.Buffers.dll
+D:\olpm\Olmp\bin\Debug\System.Collections.Immutable.dll
+D:\olpm\Olmp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\olpm\Olmp\bin\Debug\System.IO.Packaging.dll
+D:\olpm\Olmp\bin\Debug\System.Management.Automation.dll
+D:\olpm\Olmp\bin\Debug\System.Memory.dll
+D:\olpm\Olmp\bin\Debug\System.Numerics.Vectors.dll
+D:\olpm\Olmp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\olpm\Olmp\bin\Debug\System.Text.Encodings.Web.dll
+D:\olpm\Olmp\bin\Debug\System.Text.Json.dll
+D:\olpm\Olmp\bin\Debug\System.Threading.Channels.dll
+D:\olpm\Olmp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\olpm\Olmp\bin\Debug\System.ValueTuple.dll
+D:\olpm\Olmp\bin\Debug\DocumentFormat.OpenXml.xml
+D:\olpm\Olmp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\olpm\Olmp\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\olpm\Olmp\bin\Debug\Npgsql.xml
+D:\olpm\Olmp\bin\Debug\System.Buffers.xml
+D:\olpm\Olmp\bin\Debug\System.Collections.Immutable.xml
+D:\olpm\Olmp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\olpm\Olmp\bin\Debug\System.Memory.xml
+D:\olpm\Olmp\bin\Debug\System.Numerics.Vectors.xml
+D:\olpm\Olmp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\olpm\Olmp\bin\Debug\System.Text.Encodings.Web.xml
+D:\olpm\Olmp\bin\Debug\System.Text.Json.xml
+D:\olpm\Olmp\bin\Debug\System.Threading.Channels.xml
+D:\olpm\Olmp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\olpm\Olmp\bin\Debug\System.ValueTuple.xml
+D:\olpm\Olmp\obj\Debug\Olmp.csproj.AssemblyReference.cache
+D:\olpm\Olmp\obj\Debug\Olmp.csproj.SuggestedBindingRedirects.cache
+D:\olpm\Olmp\obj\Debug\Olmp.Account.resources
+D:\olpm\Olmp\obj\Debug\Olmp.Main.resources
+D:\olpm\Olmp\obj\Debug\Olmp.Forms.SignIn.resources
+D:\olpm\Olmp\obj\Debug\Olmp.SignUp.resources
+D:\olpm\Olmp\obj\Debug\Olmp.Properties.Resources.resources
+D:\olpm\Olmp\obj\Debug\Olmp.csproj.GenerateResource.cache
+D:\olpm\Olmp\obj\Debug\Olmp.csproj.CoreCompileInputs.cache
+D:\olpm\Olmp\obj\Debug\Olmp.csproj.CopyComplete
+D:\olpm\Olmp\obj\Debug\Olmp.exe
+D:\olpm\Olmp\obj\Debug\Olmp.pdb
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\Olmp.exe.config
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\Olmp.exe
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\Olmp.pdb
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\DocumentFormat.OpenXml.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\Microsoft.Bcl.HashCode.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\Npgsql.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\OpenXmlPowerTools.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Buffers.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Collections.Immutable.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.IO.Packaging.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Management.Automation.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Memory.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Numerics.Vectors.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Text.Encodings.Web.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Text.Json.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Threading.Channels.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.ValueTuple.dll
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\DocumentFormat.OpenXml.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\Microsoft.Bcl.HashCode.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\Npgsql.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Buffers.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Collections.Immutable.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Memory.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Numerics.Vectors.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Text.Encodings.Web.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Text.Json.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Threading.Channels.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\ОАП\Новая папка (2)\Olmp\bin\Debug\System.ValueTuple.xml
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.csproj.AssemblyReference.cache
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.Account.resources
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.Main.resources
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.Forms.SignIn.resources
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.SignUp.resources
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.Properties.Resources.resources
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.csproj.GenerateResource.cache
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.csproj.CoreCompileInputs.cache
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.csproj.CopyComplete
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.exe
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.pdb
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.Forms.addApp.resources
+G:\ОАП\Новая папка (2)\Olmp\obj\Debug\Olmp.Forms.viewApp.resources
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.csproj.AssemblyReference.cache
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.Account.resources
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.Main.resources
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.Forms.SignIn.resources
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.SignUp.resources
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.Properties.Resources.resources
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.csproj.GenerateResource.cache
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.csproj.CoreCompileInputs.cache
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.exe
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.pdb
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\Olmp.exe.config
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\Olmp.exe
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\Olmp.pdb
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\DocumentFormat.OpenXml.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\Microsoft.Bcl.HashCode.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\Npgsql.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\OpenXmlPowerTools.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Buffers.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Collections.Immutable.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.IO.Packaging.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Management.Automation.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Memory.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Numerics.Vectors.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Text.Encodings.Web.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Text.Json.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Threading.Channels.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.ValueTuple.dll
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\DocumentFormat.OpenXml.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\Microsoft.Bcl.HashCode.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\Npgsql.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Buffers.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Collections.Immutable.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Memory.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Numerics.Vectors.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Text.Encodings.Web.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Text.Json.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Threading.Channels.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\ОПБД\ПР3\bd2\Olmp\bin\Debug\System.ValueTuple.xml
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.csproj.CopyComplete
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.Forms.TableList.resources
+G:\ОПБД\ПР3\bd2\Olmp\obj\Debug\Olmp.Forms.Appaction.resources
