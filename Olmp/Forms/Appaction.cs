@@ -448,6 +448,15 @@ namespace Olmp.Forms
                 if(nameTable == "Сотрудники") {
                     dB.Delete("[Сотрудники]", "[Информация о сотрудниках]", "[Табельный номер]", tb_1.Text);
                 }
+                else if(nameTable == "Поставщики") {
+                    dB.Delete("[Поставщик]", string.Empty, "[Назване компании]", tb_1.Text);
+                }
+                else if(nameTable == "Заявки на товары") {
+                    dB.Delete("[Заявки на товары]", string.Empty, "[Код заявки]", tb_1.Text);
+                }
+                else if(nameTable == "Товары") {
+                    dB.Delete("[Товар]", string.Empty, "");
+                }
             }
         }
     }
