@@ -36,23 +36,23 @@ namespace Olmp
                 lbl_error.Text = "Неверная почта";
                 return;
             }
-            else
-            {
-                DB dB = new DB();
-                dB.CheckEmail(tb_email.Text, out bool checkEmail);
-                string hash = CreateMD5Hash(tb_password.Text);
-                if (checkEmail)
-                {
-                    dB.SigUp(tb_email.Text, hash.ToLower());
-                    Account account = new Account();
-                    Account.login = tb_email.Text;
-                    account.Show();
-                    this.Hide();
-                }
-                else
-                    lbl_error.Visible = true;  lbl_error.Text = "Пользователь с таким email уже зарегистрирован";
+            //else
+            //{
+            //    //DB dB = new DB();
+            //    //dB.CheckEmail(tb_email.Text, out bool checkEmail);
+            //    //string hash = CreateMD5Hash(tb_password.Text);
+            //    //if (checkEmail)
+            //    //{
+            //    //    dB.SigUp(tb_email.Text, hash.ToLower());
+            //    //    Account account = new Account();
+            //    //    Account.login = tb_email.Text;
+            //    //    account.Show();
+            //    //    this.Hide();
+            //    //}
+            //    else
+            //        lbl_error.Visible = true;  lbl_error.Text = "Пользователь с таким email уже зарегистрирован";
 
-            }
+            //}
 
         }
         public string CreateMD5Hash(string input)

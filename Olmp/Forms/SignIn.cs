@@ -11,9 +11,18 @@ namespace Olmp.Forms
         public SignIn()
         {
             InitializeComponent();
+            this.KeyPreview = true;
+            this.KeyUp += new KeyEventHandler(this.SignIn_KeyUp);
+        }
+        private void SignIn_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                btn_sign.PerformClick();
+            }
         }
 
-        private void btn_sign_Click(object sender, EventArgs e)
+        private  void btn_sign_Click(object sender, EventArgs e)
         {
             lbl_error.Visible = false;
             bool pr = true;
@@ -91,8 +100,6 @@ namespace Olmp.Forms
         }
 
         private void SignIn_Load(object sender, EventArgs e)
-        {
-
-        }
+        {        }
     }
 }

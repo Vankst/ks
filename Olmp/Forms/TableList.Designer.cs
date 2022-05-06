@@ -29,7 +29,6 @@ namespace Olmp.Forms
         /// </summary>
         private void InitializeComponent()
         {
-            this.btn_tablelist = new System.Windows.Forms.Button();
             this.panelMenu = new System.Windows.Forms.Panel();
             this.btn_exit = new System.Windows.Forms.Button();
             this.btn_main = new System.Windows.Forms.Button();
@@ -40,28 +39,10 @@ namespace Olmp.Forms
             this.panelMenu.SuspendLayout();
             this.SuspendLayout();
             // 
-            // btn_tablelist
-            // 
-            this.btn_tablelist.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btn_tablelist.FlatAppearance.BorderSize = 0;
-            this.btn_tablelist.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_tablelist.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            this.btn_tablelist.ForeColor = System.Drawing.Color.White;
-            this.btn_tablelist.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_tablelist.Location = new System.Drawing.Point(0, 91);
-            this.btn_tablelist.Margin = new System.Windows.Forms.Padding(2);
-            this.btn_tablelist.Name = "btn_tablelist";
-            this.btn_tablelist.Size = new System.Drawing.Size(147, 39);
-            this.btn_tablelist.TabIndex = 7;
-            this.btn_tablelist.Text = "Список таблиц";
-            this.btn_tablelist.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btn_tablelist.UseVisualStyleBackColor = true;
-            // 
             // panelMenu
             // 
             this.panelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(76)))));
             this.panelMenu.Controls.Add(this.btn_exit);
-            this.panelMenu.Controls.Add(this.btn_tablelist);
             this.panelMenu.Controls.Add(this.btn_main);
             this.panelMenu.Controls.Add(this.panelLogo);
             this.panelMenu.Dock = System.Windows.Forms.DockStyle.Left;
@@ -79,7 +60,7 @@ namespace Olmp.Forms
             this.btn_exit.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
             this.btn_exit.ForeColor = System.Drawing.Color.White;
             this.btn_exit.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_exit.Location = new System.Drawing.Point(0, 130);
+            this.btn_exit.Location = new System.Drawing.Point(0, 91);
             this.btn_exit.Margin = new System.Windows.Forms.Padding(2);
             this.btn_exit.Name = "btn_exit";
             this.btn_exit.Size = new System.Drawing.Size(147, 39);
@@ -161,8 +142,6 @@ namespace Olmp.Forms
         }
 
         #endregion
-
-        private System.Windows.Forms.Button btn_tablelist;
         private System.Windows.Forms.Panel panelMenu;
         private System.Windows.Forms.Button btn_exit;
         private System.Windows.Forms.Button btn_main;

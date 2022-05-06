@@ -58,7 +58,7 @@
             // 
             this.lbl_error.AutoSize = true;
             this.lbl_error.ForeColor = System.Drawing.Color.Red;
-            this.lbl_error.Location = new System.Drawing.Point(164, 178);
+            this.lbl_error.Location = new System.Drawing.Point(120, 181);
             this.lbl_error.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl_error.Name = "lbl_error";
             this.lbl_error.Size = new System.Drawing.Size(35, 13);
@@ -79,21 +79,19 @@
             // 
             // tb_password
             // 
-            this.tb_password.Location = new System.Drawing.Point(32, 103);
+            this.tb_password.Location = new System.Drawing.Point(32, 110);
             this.tb_password.Margin = new System.Windows.Forms.Padding(2);
-            this.tb_password.Multiline = true;
             this.tb_password.Name = "tb_password";
             this.tb_password.PasswordChar = '*';
-            this.tb_password.Size = new System.Drawing.Size(319, 29);
+            this.tb_password.Size = new System.Drawing.Size(319, 20);
             this.tb_password.TabIndex = 1;
             // 
             // tb_login
             // 
-            this.tb_login.Location = new System.Drawing.Point(32, 52);
+            this.tb_login.Location = new System.Drawing.Point(32, 71);
             this.tb_login.Margin = new System.Windows.Forms.Padding(2);
-            this.tb_login.Multiline = true;
             this.tb_login.Name = "tb_login";
-            this.tb_login.Size = new System.Drawing.Size(319, 29);
+            this.tb_login.Size = new System.Drawing.Size(319, 20);
             this.tb_login.TabIndex = 0;
             // 
             // panelMenu
